@@ -1,0 +1,39 @@
+.title{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+body{
+    width: 900px;
+}
+
+.main{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.cc{
+    font-weight: bold;
+    margin-right: 7px;
+}
+
+
+.xm1 div{
+    display: inline;
+}
+
+.dd{
+    margin-right: 35px;
+}
+
+.title{
+    margin: 20px 0;
+}
+
+.main,.xm1{
+    margin: 15px 0;
+}
+
+.xm2 .aa{
+    margin: 15px 0;
+}

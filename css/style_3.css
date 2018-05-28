@@ -1,0 +1,53 @@
+.title{
+    font-size: 15px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgb(110, 109, 109);
+    width: 700px;
+    height: 22px;
+    padding: 11px 20px;
+}
+
+.nr{
+    font-size: 12px;
+    border: 1px solid #e0e0e0;
+    height: 60px;
+}
+
+body{
+    width: 740px;
+}
+
+.cc,.main{
+    font-weight: bold;
+}
+
+.main{
+    float: left;
+    background-color: #c1c1c1;
+    height: 60px;
+    width: 60px;
+    text-align:center;
+    line-height: 60px;
+}
+
+.nr div{
+    display: inline;
+}
+
+.nr .xm2 .aa{
+    display: block;
+}
+
+.dd{
+    margin-right: 30px;
+}
+
+.xm1 .cc{
+    margin: 10px;
+}
+
+.xm2 .cc{
+    margin-right: -4px;
+    margin-left: 10px;
+}
